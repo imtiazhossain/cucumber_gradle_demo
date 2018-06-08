@@ -5,7 +5,7 @@ I pieced together a bunch of different resources to create this ready to go Cucu
 To run, execute
 'gradle cucumber'
 
-Your results will show under build/reports/cucumber-report.html/index.html. It includes a cucumber report with screenshots on every step.
+Results will show under build/reports/cucumber-report.html/index.html. It includes a cucumber report with screenshots on every step.
 
 Hope this serves you well.
 
